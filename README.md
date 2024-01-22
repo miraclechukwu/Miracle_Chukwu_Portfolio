@@ -25,4 +25,17 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ![](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/blob/main/Image%20Folder/percentage_sales_by_category.JPG)
 
+---
+
+# [Project 3: Walmart Sales Data Analysis](https://github.com/miraclechukwu/Walmart-Sales-Analysis)
+-	Conducted data wrangling using MySQL to ensure data quality and completeness
+-	Designed and created optimized data tables to ensure optimal database performance  
+-	Engineered insightful features including time_of_day, day_name and month_name 
+-	Conducted Exploratory Data Analysis to derive actionable insights and answer business questions  
+
+
+#### _Creating Sales Table_:
+
+![](https://github.com/miraclechukwu/Walmart-Sales-Analysis/blob/main/create_database.JPG)
+
 
