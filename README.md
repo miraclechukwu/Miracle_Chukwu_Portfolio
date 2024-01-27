@@ -48,7 +48,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
   #### _Overview of rfm analysis_:
   
-| Image 1 | Image 2 |
+| rfm 1 | rfm 2 |
 |---------|---------|
 | ![Alt text 1](https://github.com/miraclechukwu/RFM-Sales-Data-Analysis/blob/main/rfm1.JPG) | ![Alt text 2](https://github.com/miraclechukwu/RFM-Sales-Data-Analysis/blob/main/rfm2.JPG) |
 
