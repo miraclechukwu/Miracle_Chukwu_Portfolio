@@ -1,6 +1,18 @@
 # Miracle_Chukwu_Data_Analytics_Portfolio
 
-# [Project 1: Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+# [Project 1: Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+
+- Explored comprehensive dataset encompassing pizza orders details.
+- Addressed key questions on total revenue, average order value, and pizza sales trends.
+- Utilized data cleaning, transformation, and visualization techniques for insights.
+
+#### _Dashboard Insights_:
+
+Executive Dashboard             |  Sales Performance
+:------------------------------:|:--------------------:
+![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/executive_dashboard.JPG) |  ![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/sales_performance.JPG)
+
+# [Project 2: Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
 -	Utilized **_Python_** to analyze 186850 entries and 6 column of sales data in order to gain insights into sales performance, customer behavior, and product popularity. 
 -	Implemented **_Data Cleaning_** and **_Transformation_** techniques to comb through the data and identified the key requirements 
@@ -14,7 +26,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ---
 
-# [Project 2: Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/tree/main)
+# [Project 3: Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/tree/main)
 - Used **SQL** for in-depth analysis of Pizza Sales dataset containing 48,620 rows and 12 columns.
 - Employed SQL data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency.
 - Utilized SQL transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports.
@@ -27,7 +39,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ---
 
-# [Project 3: Walmart Sales Data Analysis using MySQL](https://github.com/miraclechukwu/Walmart-Sales-Analysis)
+# [Project 4: Walmart Sales Data Analysis using MySQL](https://github.com/miraclechukwu/Walmart-Sales-Analysis)
 -	Conducted data wrangling using MySQL to ensure data quality and completeness
 -	Designed and created optimized data tables to ensure optimal database performance  
 -	Engineered insightful features including time_of_day, day_name and month_name 
@@ -39,7 +51,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ---
 
-# [Project 4: RFM Sales Data Analysis using MySQL](https://github.com/miraclechukwu/RFM-Sales-Data-Analysis/tree/main)
+# [Project 5: RFM Sales Data Analysis using MySQL](https://github.com/miraclechukwu/RFM-Sales-Data-Analysis/tree/main)
 - Conducted extensive RFM (Recency, Frequency, Monetary) analysis on sales data using MySQL, sales data for insights into customer behavior and sales performance.
 - Applied rigorous data cleaning and transformation techniques, including inspecting raw data, checking unique values, and updating date values, ensuring accuracy in the analysis.
 - Extracted key insights through MySQL queries, revealing top sales months, best-selling products, and nuanced customer segmentation for strategic marketing.
